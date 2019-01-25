@@ -1,0 +1,11 @@
+mod = [
+	"noinvis"
+]
+
+package = [
+	"resource_packages/noinvis/noinvis"
+]
+
+lua = [
+	"scripts/mods/noinvis/*"
+]
